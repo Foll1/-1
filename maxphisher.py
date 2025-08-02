@@ -145,6 +145,7 @@ info2  =   f"{green}[{white}•{green}] {purple}"
 
 logo = f"""
 {red}FOLK
+"""
 
 lx_help = f"""
 {info}Steps: {nc}
