@@ -143,6 +143,8 @@ info2  =   f"{green}[{white}•{green}] {purple}"
 
 # Modifying this could be potentially dangerous
 
+logo = f"""
+{red}FOLK
 
 lx_help = f"""
 {info}Steps: {nc}
